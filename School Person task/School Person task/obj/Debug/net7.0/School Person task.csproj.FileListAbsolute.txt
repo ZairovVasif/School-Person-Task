@@ -1,0 +1,15 @@
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.csproj.AssemblyReference.cache
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.AssemblyInfoInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.AssemblyInfo.cs
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.csproj.CoreCompileInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/bin/Debug/net7.0/School Person task
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/bin/Debug/net7.0/School Person task.deps.json
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/bin/Debug/net7.0/School Person task.runtimeconfig.json
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/bin/Debug/net7.0/School Person task.dll
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/bin/Debug/net7.0/School Person task.pdb
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.dll
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/refint/School Person task.dll
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.pdb
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/School Person task.genruntimeconfig.cache
+/Users/zairovv/Desktop/IT brains tasks/School Person task/School Person task/obj/Debug/net7.0/ref/School Person task.dll
